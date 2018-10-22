@@ -1,0 +1,47 @@
+<root>
+	<mods name="CUP Terrains - Core">
+		<modname>CUP Terrains - Core</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=583496184</link>
+	</mods>
+	<modsm name="CUP Terrains - Maps">
+		<modname>CUP Terrains - Maps</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=583544987</link>
+	</mods>
+	<mods name="CUP Units">
+		<modname>CUP Units</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=497661914</link>
+	</mods>
+	<mods name="CUP Vehicles">
+		<modname>CUP Vehicles</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=541888371</link>
+	</mods>
+	<mods name="CUP Weapons">
+		<modname>CUP Weapons</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=497660133</link>
+	</mods>
+	<mods name="RHSAFRF">
+		<modname>RHSAFRF</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=843425103</link>
+	</mods>
+	<mods name="RHSGREF">
+		<modname>RHSGREF</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=843593391</link>
+	</mods>
+	<mods name="RHSSAF">
+		<modname>RHSSAF</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=843632231</link>
+	</mods>	
+	<mods name="RHSUSAF">
+		<modname>RHSUSAF</modname>
+		<from>Steam</from>
+		<link>http://steamcommunity.com/sharedfiles/filedetails/?id=843577117</link>
+	</mods>	
+</root>
